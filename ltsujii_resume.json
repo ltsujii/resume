@@ -1,0 +1,127 @@
+{
+  "basics": {
+    "name": "Laine Tsujii",
+    "label": "Systems Engineer",
+    "picture": "",
+    "email": "laine.tsujii@emc.com",
+    "phone": "(425) 260-6667",
+    "website": "https://ltsujii54.wixsite.com/myprofile",
+    "summary": "Laine was born and raised in the Seattle area, graduated from the University of Washington with a BA in Economics.  Laine's interest in high-tech and computers led him to pursue a career in that field which currently spans over 30 years in roles ranging from sales rep, SE, PS Manager, and regional technology specialist.",
+    "location": {
+      "address": "511 100th Ave NE, #403",
+      "postalCode": "WA 98004",
+      "city": "Bellevue",
+      "countryCode": "US",
+      "region": "Pacific Northwest"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "ltsujii2013",
+        "url": ""
+      },
+      {
+        "network": "Linkedin",
+        "username": "lainetsujii",
+        "url": "https://www.linkedin.com/in/lainetsujii/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DellEMC",
+      "position": "Advisory Systems Engineer",
+      "website": "https://dell.com",
+      "startDate": "2013-10-01",
+      "endDate": "present",
+      "summary": "Dell | EMC is a global leader in enabling businesses and service providers to transform their operations and deliver information technology as a service (ITaaS). Fundamental to this transformation is cloud computing. Through innovative products and services, EMC accelerates the journey to cloud computing, helping IT departments to store, manage, protect and analyze their most valuable asset — information — in a more agile, trusted and cost-efficient way.",
+      "highlights": [
+        "Account SE for named commercial accounts in Washington",
+        "Successfully won several large \"red zone\" projects ",
+        "Led weekly \"storage basics\" workshops for AEs"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Dell ",
+      "position": "Recycling engineer",
+      "website": "https://dell.com",
+      "startDate": "2011-01-10",
+      "endDate": "2013-01-10",
+      "summary": "Assisting with PC Recycling day in Seattle.  Brought in hundreds of computers and peripherals from the area",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Washington",
+      "area": "Economics",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "1982-12-01",
+      "gpa": "",
+      "courses": [
+        "Business, economics, Basic programming, statistics "
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "President's Club Award",
+      "date": "1999",
+      "awarder": "CompuCom Systems",
+      "summary": "PS Management"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Getting Ready for Microsoft Windows Server 2008",
+      "publisher": "Dell Power Solutions Magazine",
+      "releaseDate": "2009",
+      "website": "https://dell.com/powersolutions",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Storage design and consultant",
+      "level": "Expert",
+      "keywords": [
+        "FibreChannel",
+        "SAN",
+        "NAS"
+      ]
+    },
+    {
+      "name": "Datacenter Servers",
+      "level": "Advanced",
+      "keywords": [
+        "CPU",
+        "RAM",
+        "virtualization"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports, outdoor activities",
+      "keywords": [
+        "tennis",
+        "bicycling"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Kerry Porter",
+      "reference": " NW Region SE Manager, DellEMC, Commercial"
+    }
+  ]
+}
